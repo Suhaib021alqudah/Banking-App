@@ -90,29 +90,34 @@ Statistics screen uses **fl_chart** to display monthly data in a BarChart format
 
 ### 🟢 Onboarding
 
-![Onboarding](assets/screenshots/onboarding.png)
+![Onboarding](AppScreenShots/1.png)
 
 ### 🔐 Authentication
 
 ![Login](assets/screenshots/login.png)
-![Register](assets/screenshots/register.png)
-![OTP Verification](assets/screenshots/otp.png)
+![Register](AppScreenShots/3.png)
+![OTP Verification](AppScreenShots/9.png)
 
 ### 🏠 Home Dashboard
 
-![Home](assets/screenshots/home.png)
+![Home](AppScreenShots/4.png)
 
 ### 📊 Statistics
 
-![Statistics](assets/screenshots/statistics.png)
+![Statistics](AppScreenShots/5.png)
 
 ### 💳 Cards
 
-![Cards](assets/screenshots/cards.png)
+![Cards](AppScreenShots/6.png)
 
 ### 👤 Profile
 
-![Profile](assets/screenshots/profile.png)
+![Profile](AppScreenShots/7.png)
+
+### Forget Password
+![Forget Password](AppScreenShots/8.png)
+![Forget Password](AppScreenShots/10.png)
+
 
 > Add your screenshots inside `assets/screenshots/` folder and update file names if needed.
 
